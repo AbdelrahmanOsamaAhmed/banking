@@ -1,0 +1,142 @@
+[
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000064" },
+    "first_name": "Fredrick",
+    "last_name": "Boomes",
+    "email": "fboomes0@baidu.com",
+    "balance": "14282.97"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000065" },
+    "first_name": "Natale",
+    "last_name": "Smyley",
+    "email": "nsmyley1@people.com.cn",
+    "balance": "56745.58"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000066" },
+    "first_name": "Natty",
+    "last_name": "Peron",
+    "email": "nperon2@creativecommons.org",
+    "balance": "17905.82"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000067" },
+    "first_name": "Toma",
+    "last_name": "Stooke",
+    "email": "tstooke3@census.gov",
+    "balance": "31557.09"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000068" },
+    "first_name": "Jacenta",
+    "last_name": "Kmietsch",
+    "email": "jkmietsch4@linkedin.com",
+    "balance": "65716.28"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000069" },
+    "first_name": "Franklyn",
+    "last_name": "Klemmt",
+    "email": "fklemmt5@tamu.edu",
+    "balance": "58765.73"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006a" },
+    "first_name": "Daune",
+    "last_name": "Bazely",
+    "email": "dbazely6@phoca.cz",
+    "balance": "40747.04"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006b" },
+    "first_name": "Christos",
+    "last_name": "Woodson",
+    "email": "cwoodson7@typepad.com",
+    "balance": "81750.69"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006c" },
+    "first_name": "Roderich",
+    "last_name": "Loidl",
+    "email": "rloidl8@woothemes.com",
+    "balance": "23501.16"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006d" },
+    "first_name": "Sibelle",
+    "last_name": "Millward",
+    "email": "smillward9@tripadvisor.com",
+    "balance": "84283.60"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006e" },
+    "first_name": "Cicely",
+    "last_name": "Gregorio",
+    "email": "cgregorioa@ted.com",
+    "balance": "51040.03"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed800006f" },
+    "first_name": "Langston",
+    "last_name": "Hadigate",
+    "email": "lhadigateb@jimdo.com",
+    "balance": "65063.33"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000070" },
+    "first_name": "Saree",
+    "last_name": "Tacey",
+    "email": "staceyc@hostgator.com",
+    "balance": "21661.72"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000071" },
+    "first_name": "Dud",
+    "last_name": "Garrals",
+    "email": "dgarralsd@blogs.com",
+    "balance": "36203.24"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000072" },
+    "first_name": "Lida",
+    "last_name": "Thonason",
+    "email": "lthonasone@businessinsider.com",
+    "balance": "88019.34"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000073" },
+    "first_name": "Montgomery",
+    "last_name": "Fergie",
+    "email": "mfergief@yellowbook.com",
+    "balance": "41735.97"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000074" },
+    "first_name": "Marlee",
+    "last_name": "Whibley",
+    "email": "mwhibleyg@nytimes.com",
+    "balance": "95030.79"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000075" },
+    "first_name": "Justina",
+    "last_name": "Jeyness",
+    "email": "jjeynessh@oakley.com",
+    "balance": "77610.21"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000076" },
+    "first_name": "Zora",
+    "last_name": "Jorck",
+    "email": "zjorcki@wp.com",
+    "balance": "31056.14"
+  },
+  {
+    "id": { "$oid": "638d10edfc13ae7ed8000077" },
+    "first_name": "Tedd",
+    "last_name": "McGinly",
+    "email": "tmcginlyj@netvibes.com",
+    "balance": "91061.91"
+  }
+]
